@@ -1,4 +1,5 @@
 import array 
+""" import array """
 arr=array.array('i',[])
 s=int(input("enter the array size : "))
 for i in range(s):
